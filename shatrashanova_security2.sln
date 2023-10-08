@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "shatrashanova_security2", "shatrashanova_security2\shatrashanova_security2.vcxproj", "{B62877EC-1D7D-464C-B740-897F8D8E850E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B62877EC-1D7D-464C-B740-897F8D8E850E}.Debug|x64.ActiveCfg = Debug|x64
+		{B62877EC-1D7D-464C-B740-897F8D8E850E}.Debug|x64.Build.0 = Debug|x64
+		{B62877EC-1D7D-464C-B740-897F8D8E850E}.Debug|x86.ActiveCfg = Debug|Win32
+		{B62877EC-1D7D-464C-B740-897F8D8E850E}.Debug|x86.Build.0 = Debug|Win32
+		{B62877EC-1D7D-464C-B740-897F8D8E850E}.Release|x64.ActiveCfg = Release|x64
+		{B62877EC-1D7D-464C-B740-897F8D8E850E}.Release|x64.Build.0 = Release|x64
+		{B62877EC-1D7D-464C-B740-897F8D8E850E}.Release|x86.ActiveCfg = Release|Win32
+		{B62877EC-1D7D-464C-B740-897F8D8E850E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B649EFF3-E342-4EED-A282-0BE5598CBA80}
+	EndGlobalSection
+EndGlobal
